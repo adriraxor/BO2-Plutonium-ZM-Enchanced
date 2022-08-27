@@ -1,2 +1,5 @@
 # scripting-project
-Scripting for games with .gsc language 
+
+
+
+project-bo2 --> Ce script peut-être utilisé comme plugin sur des serveurs ou en tant que client local il ajoute des nouvelles mécaniques et améliore des bugs du jeu vanilla.  
