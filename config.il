@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Project><Title>RaxorPlugin</Title><Author>Adriraxor</Author><Game>BO2</Game><Mode>ZM</Mode><Platform>Steam</Platform><Symbols>DEBUG;EXAMPLE</Symbols></Project>
